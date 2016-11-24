@@ -1,4 +1,4 @@
-# teste
+# Pokedex
 
 > A Vue.js project
 

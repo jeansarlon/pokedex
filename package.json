@@ -1,7 +1,7 @@
 {
-  "name": "teste",
+  "name": "Pokedex",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A pokedex in  Vue.js project",
   "author": "Jean Sarlon <jean.sarlon@icloud.com>",
   "private": true,
   "scripts": {
